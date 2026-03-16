@@ -4,7 +4,7 @@ Vue 3 + Pinia - JWT Authentication towards a Java Spring Boot 3 Web API
 
 # Last updated
 
-- 09-02-2026
+- 16-03-2026
 
 # Tech used for this Web Client
 
